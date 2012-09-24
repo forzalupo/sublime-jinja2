@@ -4,5 +4,5 @@
 {% endmacro %}]]></content>
 	<tabTrigger>macro</tabTrigger>
 	<scope>source.jinja, text.html.jinja</scope>
-	<description>Macro</description>
+	<description>macro</description>
 </snippet>

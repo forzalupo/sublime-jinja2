@@ -4,5 +4,5 @@
 {% endraw %}]]></content>
 	<tabTrigger>raw</tabTrigger>
 	<scope>source.jinja, text.html.jinja</scope>
-	<description>Super Block</description>
+	<description>raw</description>
 </snippet>

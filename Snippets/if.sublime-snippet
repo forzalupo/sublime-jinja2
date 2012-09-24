@@ -4,5 +4,5 @@
 {% endif %}]]></content>
 	<tabTrigger>if</tabTrigger>
 	<scope>source.jinja, text.html.jinja</scope>
-	<description>If</description>
+	<description>if</description>
 </snippet>

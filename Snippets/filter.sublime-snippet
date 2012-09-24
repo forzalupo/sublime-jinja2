@@ -4,5 +4,5 @@
 {% endfilter %}]]></content>
 	<tabTrigger>filter</tabTrigger>
 	<scope>source.jinja, text.html.jinja</scope>
-	<description>Filter</description>
+	<description>filter</description>
 </snippet>

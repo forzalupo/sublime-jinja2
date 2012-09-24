@@ -4,5 +4,5 @@
 {% endfor %}]]></content>
 	<tabTrigger>for</tabTrigger>
 	<scope>source.jinja, text.html.jinja</scope>
-	<description>For</description>
+	<description>for</description>
 </snippet>

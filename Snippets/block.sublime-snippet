@@ -4,5 +4,5 @@
 {% endblock %}]]></content>
 	<tabTrigger>block</tabTrigger>
 	<scope>source.jinja, text.html.jinja</scope>
-	<description>Block</description>
+	<description>block</description>
 </snippet>

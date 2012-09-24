@@ -2,5 +2,5 @@
 	<content><![CDATA[{{ ${1:name} }}]]></content>
 	<tabTrigger>var</tabTrigger>
 	<scope>source.jinja, text.html.jinja</scope>
-	<description>Variable</description>
+	<description>variable</description>
 </snippet>
