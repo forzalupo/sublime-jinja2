@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[{% macro ${1:name}(${2:args}) %}
-	$2
+	$3
 {% endmacro %}]]></content>
 	<tabTrigger>macro</tabTrigger>
 	<scope>source.jinja, text.html.jinja</scope>
