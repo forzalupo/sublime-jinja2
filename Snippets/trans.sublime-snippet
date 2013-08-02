@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[{% trans %}${1:$SELECTION}{% endtrans %}]]></content>
+	<content><![CDATA[[% trans %]${1:$SELECTION}[% endtrans %]]]></content>
 	<tabTrigger>trans</tabTrigger>
 	<scope>source.jinja, text.html.jinja</scope>
 	<description>trans</description>

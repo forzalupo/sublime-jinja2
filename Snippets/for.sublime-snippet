@@ -1,7 +1,7 @@
 <snippet>
-	<content><![CDATA[{% for ${1:item} in ${2:sequence} %}
+	<content><![CDATA[[% for ${1:item} in ${2:sequence} %]
 	$3
-{% endfor %}]]></content>
+[% endfor %]]]></content>
 	<tabTrigger>for</tabTrigger>
 	<scope>source.jinja, text.html.jinja</scope>
 	<description>for</description>

@@ -1,7 +1,7 @@
 <snippet>
-	<content><![CDATA[{% raw %}
+	<content><![CDATA[[% raw %]
 	$1
-{% endraw %}]]></content>
+[% endraw %]]]></content>
 	<tabTrigger>raw</tabTrigger>
 	<scope>source.jinja, text.html.jinja</scope>
 	<description>raw</description>

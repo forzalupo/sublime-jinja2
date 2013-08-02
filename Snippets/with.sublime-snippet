@@ -1,7 +1,7 @@
 <snippet>
-	<content><![CDATA[{% with ${1:variable} = ${2:value} %}
+	<content><![CDATA[[% with ${1:variable} = ${2:value} %]
 	${3:$SELECTION}
-{% endwith %}]]></content>
+[% endwith %]]]></content>
 	<tabTrigger>with</tabTrigger>
 	<scope>source.jinja, text.html.jinja</scope>
 	<description>with</description>

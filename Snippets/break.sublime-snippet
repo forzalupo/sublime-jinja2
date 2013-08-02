@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[{% break %}]]></content>
+	<content><![CDATA[[% break %]]]></content>
 	<tabTrigger>break</tabTrigger>
 	<scope>source.jinja, text.html.jinja</scope>
 	<description>break</description>

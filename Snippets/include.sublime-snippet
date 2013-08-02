@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[{% include ${1:"${2:template}"} %}]]></content>
+	<content><![CDATA[[% include ${1:"${2:template}"} %]]]></content>
 	<tabTrigger>include</tabTrigger>
 	<scope>source.jinja, text.html.jinja</scope>
 	<description>include</description>

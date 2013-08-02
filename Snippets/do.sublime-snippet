@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[{% do ${1:expr} %}]]></content>
+	<content><![CDATA[[% do ${1:expr} %]]]></content>
 	<tabTrigger>do</tabTrigger>
 	<scope>source.jinja, text.html.jinja</scope>
 	<description>do</description>

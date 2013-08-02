@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[{% pluralize %}]]></content>
+	<content><![CDATA[[% pluralize %]]]></content>
 	<tabTrigger>pluralize</tabTrigger>
 	<scope>source.jinja, text.html.jinja</scope>
 	<description>pluralize</description>

@@ -1,7 +1,7 @@
 <snippet>
-	<content><![CDATA[{% filter ${1:filter} %}
+	<content><![CDATA[[% filter ${1:filter} %]
 	$2
-{% endfilter %}]]></content>
+[% endfilter %]]]></content>
 	<tabTrigger>filter</tabTrigger>
 	<scope>source.jinja, text.html.jinja</scope>
 	<description>filter</description>

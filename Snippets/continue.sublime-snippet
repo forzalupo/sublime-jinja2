@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[{% continue %}]]></content>
+	<content><![CDATA[[% continue %]]]></content>
 	<tabTrigger>continue</tabTrigger>
 	<scope>source.jinja, text.html.jinja</scope>
 	<description>continue</description>
